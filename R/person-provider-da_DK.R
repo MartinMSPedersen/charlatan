@@ -180,6 +180,7 @@ person_first_names_male_da_dk = c(
   "Nikolaj",
   "Nils",
   "Noah",
+  "Olaf",
   "Ole",
   "Olfert",
   "Oliver",
